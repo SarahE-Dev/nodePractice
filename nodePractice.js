@@ -9,6 +9,6 @@ console.log("Hello, " + firstName + " " + lastName)
 
 console.log(firstName.toUpperCase() + " " + lastName.toUpperCase() + " is your name capitalized.")
 
-console.log(firstName.charAt(0) + "." + lastName.charAt(0) + ".")
+console.log(firstName.charAt(0) + "." + lastName.charAt(0) + "." + " are your initials.")
 
-console.log(firstName.charAt(0).toLowerCase() + lastName.toLowerCase() + ".prsvr@gmail.com")
+console.log(firstName.charAt(0).toLowerCase() + lastName.toLowerCase() + ".prsvr@gmail.com" + " is your email address.")
